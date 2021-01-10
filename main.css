@@ -1,0 +1,43 @@
+.body{
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.Quienes{
+    color: blueviolet;
+    background: cornflowerblue;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    
+}
+.Instalaciones{
+    color: red;
+    background:red;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.Servicios{
+    color:yellow;
+    background:orange;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}    
+.Productos{
+    color: green;
+    background: lightgreen;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.Contacto{
+    color: red;
+    background: yellow;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
